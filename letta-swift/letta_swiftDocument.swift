@@ -11,7 +11,7 @@ import UniformTypeIdentifiers
 nonisolated struct letta_swiftDocument: FileDocument {
     var text: String
 
-    init(text: String = "Hello, world!") {
+    init(text: String = "Hello, Letta!") {
         self.text = text
     }
 
