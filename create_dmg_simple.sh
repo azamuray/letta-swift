@@ -7,7 +7,7 @@ set -e
 
 APP_PATH="${1:-build/Letta.app}"
 DMG_NAME="Letta"
-VERSION="3.0.0"
+VERSION="4.1.1"
 
 echo "📦 Создание DMG для $APP_PATH..."
 
